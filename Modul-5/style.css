@@ -40,3 +40,11 @@ pointer; font-weight: bold;
 .complete-btn:hover { background-color: #15803d; }
 .delete-btn { background-color: #dc2626; color: white; }
 .delete-btn:hover { background-color: #b91c1c; }
+
+.task-counter { text-align: center; font-size: 13px; color: #64748b; margin-bottom: 16px; }
+
+.clear-btn {
+    width: 100%; margin-top: 10px; padding: 10px; border: none; border-radius: 6px;
+    background-color: #64748b; color: white; font-weight: bold; cursor: pointer;
+}
+.clear-btn:hover { background-color: #475569; }
